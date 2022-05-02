@@ -1,0 +1,1 @@
+28 0 */4 * * root /opt/gitlab/bin/gitlab-ctl renew-le-certs
